@@ -1,0 +1,8 @@
+C:\Users\Snitin  James\Desktop\aec\aec\bin\Debug\aec.exe
+C:\Users\Snitin  James\Desktop\aec\aec\bin\Debug\aec.pdb
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.csprojResolveAssemblyReference.cache
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.Form1.resources
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.Properties.Resources.resources
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.csproj.GenerateResource.Cache
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.exe
+C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.pdb
