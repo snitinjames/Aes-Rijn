@@ -6,3 +6,11 @@ C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.Properties.Resources.resour
 C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.csproj.GenerateResource.Cache
 C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.exe
 C:\Users\Snitin  James\Desktop\aec\aec\obj\Debug\aec.pdb
+E:\loyola notes\aec\aec\obj\Debug\aec.exe
+E:\loyola notes\aec\aec\obj\Debug\aec.pdb
+E:\loyola notes\aec\aec\bin\Debug\aec.exe
+E:\loyola notes\aec\aec\bin\Debug\aec.pdb
+E:\loyola notes\aec\aec\obj\Debug\aec.csprojResolveAssemblyReference.cache
+E:\loyola notes\aec\aec\obj\Debug\aec.Form1.resources
+E:\loyola notes\aec\aec\obj\Debug\aec.Properties.Resources.resources
+E:\loyola notes\aec\aec\obj\Debug\aec.csproj.GenerateResource.Cache
